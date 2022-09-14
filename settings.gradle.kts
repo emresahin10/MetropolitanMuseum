@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Metropolitan Museum"
-include ':app'
+include (":app")
+enableFeaturePreview("VERSION_CATALOGS")
