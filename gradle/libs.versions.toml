@@ -23,7 +23,7 @@ timber = "5.0.1"
 
 # test library versions
 testJunit = "5.8.2"
-testMockk = "1.12.4"
+testMockk = "1.12.8"
 
 # android test library versions
 testAndroidJunitExt = "1.1.3"
