@@ -1,20 +1,20 @@
 [versions]
 # plugin versions
-androidGradle = "7.3.0"
+androidGradle = "7.2.2"
 detekt = "1.20.0"
-junit = "1.8.2.1"
-ksp = "1.7.10-1.0.6"
+junit = "1.8.2.0"
+ksp = "1.6.21-1.0.5"
 ktLint = "10.3.0"
 
 # production library versions
 coil = "2.1.0"
-compose = "1.2.1"
+compose = "1.2.0-beta02"
 composeNavigation = "2.4.2"
 composeNavigationHilt = "1.0.0"
 datastore = "1.0.0"
-hilt = "2.43.2"
+hilt = "2.42"
 kotlin = "1.6.21"
-kotlinCoroutines = "1.6.4"
+kotlinCoroutines = "1.6.1"
 kotlinSerializationConverter = "0.8.0"
 lifecycle = "2.4.1"
 retrofit = "2.9.0"
@@ -23,7 +23,7 @@ timber = "5.0.1"
 
 # test library versions
 testJunit = "5.8.2"
-testMockk = "1.12.8"
+testMockk = "1.12.4"
 
 # android test library versions
 testAndroidJunitExt = "1.1.3"
