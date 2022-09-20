@@ -22,7 +22,7 @@ room = "2.4.2"
 timber = "5.0.1"
 
 # test library versions
-testJunit = "5.8.2"
+testJunit = "5.9.1"
 testMockk = "1.12.4"
 
 # android test library versions
