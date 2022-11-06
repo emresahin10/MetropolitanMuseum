@@ -3,7 +3,7 @@
 androidGradle = "7.3.1"
 detekt = "1.20.0"
 junit = "1.8.2.0"
-ksp = "1.6.21-1.0.5"
+ksp = "1.7.20-1.0.8"
 ktLint = "10.3.0"
 
 # production library versions
