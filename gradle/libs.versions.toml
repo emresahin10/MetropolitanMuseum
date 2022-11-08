@@ -27,7 +27,7 @@ testJunit = "5.9.1"
 testMockk = "1.12.4"
 
 # android test library versions
-testAndroidJunitExt = "1.1.3"
+testAndroidJunitExt = "1.1.4"
 testAndroidRunner = "1.4.0"
 
 
