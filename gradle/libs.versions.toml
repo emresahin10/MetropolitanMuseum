@@ -28,7 +28,7 @@ testMockk = "1.12.4"
 
 # android test library versions
 testAndroidJunitExt = "1.1.3"
-testAndroidRunner = "1.4.0"
+testAndroidRunner = "1.5.1"
 
 
 [plugins]
